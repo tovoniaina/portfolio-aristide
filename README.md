@@ -15,7 +15,7 @@
 ## Portfolio Netlify Link
 👉 **[Aristide Portfolio](https://aristide-portfolio.netlify.app/)**
 
-## Screenshot of my final work
+## Screencast of my final work
 ![My final work](./img/finalWork.gif "screenshot of my final work")
 
 ## Images sources credits

@@ -16,7 +16,7 @@
 👉 **[Aristide Portfolio](https://aristide-portfolio.netlify.app/)**
 
 ## Screenshot of my final work
-![My final work](./img/finalWork.png "screenshot of my final work")
+![My final work](./img/finalWork.gif "screenshot of my final work")
 
 ## Images sources credits
 1. Bing generative AI image (DALL-E 2)

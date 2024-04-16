@@ -415,24 +415,45 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+.about-stats .progress-bars .progress-bar .progress-con .progress .project-management {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .qa {
+.about-stats .progress-bars .progress-bar .progress-con .progress .t-u {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .a-s {
   width: 95%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .ba {
-  width: 75%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .rm-b {
+  width: 85%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .com {
-  width: 60%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .b-a {
+  width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .csm {
-  width: 87%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .c-m {
+  width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .tsx {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .success-management {
+  width: 95%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .t-sk {
+  width: 85%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .tm-l {
+  width: 80%;
+  
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .sdlc {
+  width: 90%;}
+
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .pb-tm {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .cm-cr {
+  width: 80%;
+}
+
 
 .stat-title {
   text-transform: uppercase;
@@ -524,6 +545,15 @@ section {
   object-fit: cover;
   border-radius: 15px;
 }
+
+.sm-ds{
+  text-align: center;
+  margin-top: -15px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom : 5px;
+}
+
 .portfolios .portfolio-item .hover-items {
   width: 100%;
   height: 100%;
